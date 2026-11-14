@@ -1,0 +1,14 @@
+# Ce dépôt ne contient qu'un README et des images.
+# Rien de WordPress ne doit y entrer.
+wp-config*.php
+*.sql
+*.sql.gz
+*.env
+.env*
+*.zip
+*.tar.gz
+captures-brutes/
+tmp/
+output/
+.DS_Store
+Thumbs.db
